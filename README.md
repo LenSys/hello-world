@@ -1,4 +1,4 @@
 hello-world
 ===========
 
-This is hello world
+Some text o lorem ipsum.
