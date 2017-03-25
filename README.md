@@ -1,5 +1,4 @@
-hello-world
+README
 ===========
 
-Some text o lorem ipsum.
-Now it is up to date!
+This is a personal issue tracker for the <a href="http://www.anuvi.de">AnuVi.de</a> website.
